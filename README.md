@@ -30,3 +30,26 @@ Benefits:-
   - Cost-effectiveness – with the ability to scale to the public cloud, you pay for extra computing power only when needed.
   - Ease – transitioning to the cloud doesn’t have to be overwhelming because you can migrate gradually – phasing in workloads over time.
 
+
+3) Private Cloud - A private cloud consists of cloud computing resources used exclusively by one business or organisation. The private cloud can be physically located at your organisation’s on-site data centre, or it can be hosted by a third-party service provider.
+
+Benefits:-
+- More flexibility – your organisation can customise its cloud environment to meet specific business needs.
+- More control – resources are not shared with others, so higher levels of control and privacy are possible.
+- More scalability – private clouds often offer more scalability compared to on-premises infrastructure.
+
+## What is Monolith Architecture, 2 tier and Micro-services Architecture?
+1) Monolith Architecture
+- Typically used for smaller application where you have the database, backend, frontend composed altogether as a unifed model.
+- It is built in a single unit
+
+2) 2-tier Architecture
+- A 2 Tier Architecture is a software architecture where the interface runs on a client while the data layer or data structure gets stored on a server.
+- For example, communication takes place between the client and the server, the client send the request to the server and the server processes the request and sends the response back to the client.
+
+3) Micro-Service Architecture
+- A Micro-Service Architecture is an architecture that enables the rapid, frequent and reliable delivery of complex applications. Also, enables an organization to improve its technology stack.
+- For example, eBay is a proper example because they are dealing with multiple services at once.
+
+<img width="771" alt="Screenshot 2021-06-10 at 09 16 40" src="https://user-images.githubusercontent.com/25173053/121490049-94175300-c9cc-11eb-82db-711656c35398.png">
+
